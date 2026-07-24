@@ -86,3 +86,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Webapp can handle concurrency upto some extent but can be scaled.
 
 "# Diabetes-Prediction-system" 
+"# Diabetes-Prediction-System" 
